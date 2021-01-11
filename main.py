@@ -98,7 +98,7 @@ def test_model_example(index, example, dfs_test, democrat, republican):
 
     res_d = 0
     res_r = 0
-    for i in range(1, 16):
+    for i in range(1, 17):
         res_d = res_d + democrat[i][test[i]]
         res_r = res_r + republican[i][test[i]]
 
@@ -135,10 +135,10 @@ def print_accuracy(dfs_test, dfs_train):
     model_num = 0
     average = 0
     for list in results:
-        correct_democrat = 0
-        correct_republican = 0
-        wrong_democrat = 0
-        wrong_republican = 0
+        # correct_democrat = 0
+        # correct_republican = 0
+        # wrong_democrat = 0
+        # wrong_republican = 0
 
         # # Calculate accuracy using Confusion Matrix
         # for res in list:
