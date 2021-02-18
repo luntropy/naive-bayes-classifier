@@ -15,7 +15,7 @@ The program is using the Naive Bayes classifier to classify different individual
 - Run `python3 main.py`
 
 ### Output
-- Outputs accuracy for each of the 10 trainings and the average accuracy for a summary assessment of the classifier.
+Outputs accuracy for each of the 10 trainings and the average accuracy for a summary assessment of the classifier.
 
 ### Example
 ![Example](https://github.com/luntropy/naive-bayes-classifier/blob/main/images/output-example.png)
