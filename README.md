@@ -7,7 +7,7 @@ The objective of the program is to classify different individuals as Democrats o
 - The data is randomly separated in 10 sets on each program start.
 
 ## About the program
-The program is using the Naive Bayes classifier to classify different individuals as Democrats or Republicans based on 16 attributes.
+The program is using the **Naive Bayes classifier** to classify different individuals as Democrats or Republicans based on 16 attributes.
 
 - Used data - [Here](http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records)
 
